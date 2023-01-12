@@ -1,2 +1,2 @@
-# 2kya
+# 2kya.github.io
 Annika Faye A. Serranzana
