@@ -5,3 +5,7 @@
   color: white;
   font-size: 30px;
 }
+
+body {
+    background: linear-gradient(gold, black);
+}
