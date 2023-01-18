@@ -1,9 +1,4 @@
-<html>
-<div class="header">
-  <h1>Header</h1>
-  <p>My supercool header</p>
-</div>
-</html>
+
 # Movie Recommendations
 
 1. **Movie**
@@ -27,9 +22,3 @@
 | Big Dogs | 12 |
 | Small Dogs | 11 |  
 
-<html>
-div.background {
-  background: url(12.13_movies.jpg) repeat;
-  border: 2px solid black;
-}
-  </html>
