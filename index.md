@@ -1,24 +1,22 @@
 
 # Movie Recommendations
 
-1. **Movie**
-![``]()
+---
 
-```
-> **Desc**
-```
+1. **Meet Joe Black**
 
 
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5InRoE0BFPhOEyC2ram5s9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jXTK1-aDSBk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![`Image`](s-l500.jpg)
 
 
+> **Meet Joe Black is a 1998 American romantic fantasy film directed 
+and produced by Martin Brest, and starring Brad Pitt, Anthony Hopkins, and Claire Forlani. 
+Celebrating his 65th birthday, businessman and devoted family man Bill Parrish is visited by Death,
+who wants to know what it's like to be human in return for giving Bill extra days of his life.**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_zIOjl93WrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 [`Next Page`](nextpage.md)
-
-| Size | No. |                   
-| ----------- | ----------- |
-| Big Dogs | 12 |
-| Small Dogs | 11 |  
 
